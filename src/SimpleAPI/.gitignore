@@ -60,6 +60,8 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
+.vs/
+
 
 # User-specific files
 *.user
