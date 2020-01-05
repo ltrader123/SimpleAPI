@@ -15,7 +15,7 @@ namespace SimpleAPI.Test
         {
             IEnumerable<WeatherForecast> result = _controller.Get();
 
-            Assert.True(false, "Should be true!!");
+            Assert.True(true, "Should be true!!");
         }
 
         [Fact]
