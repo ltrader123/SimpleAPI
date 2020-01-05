@@ -15,12 +15,13 @@ namespace SimpleAPI.Test
         {
             IEnumerable<WeatherForecast> result = _controller.Get();
 
-            // Assert.True(false);
+            Assert.True(true);
         }
 
         [Fact]
         public void Test1()
         {
+            Assert.True(true);
 
         }
     }
